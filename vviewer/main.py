@@ -5,7 +5,7 @@ import os
 from .reader import read_data
 from .utils import get_header_from_file
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 
 def quoting_type(s):
