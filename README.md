@@ -4,7 +4,7 @@ text viewer to show row data vertically
 
 ## How to install
 
-for normal user when the server can access to apj-platform_rpms-release repository
+from pypi
 
 ```bash
 (vviewer) $ pip install vviewer
